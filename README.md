@@ -13,12 +13,9 @@ I am Benita Rego, an aspiring Software Developer from Mumbai!
 [2]: https://www.linkedin.com/in/benitarego/
 [3]: https://benitarego.github.io
 
- [![twitter](https://img.icons8.com/color/48/000000/twitter--v2.png)][1]
- [![linkedin](https://img.icons8.com/color/48/000000/linkedin-circled--v2.png)][2]
- [![portfolio](https://img.icons8.com/ios-glyphs/30/000000/link--v2.png)][3]
-<!--<a href="https://twitter.com/benitarego"><img height="30" src="https://github.com/benitarego/benitarego/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;-->
-<!--<a href="https://instagram.com/benitarego"><img height="30" src="https://instagram.com/benitarego/benitarego/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;-->
-<!--<a href="https://www.linkedin.com/in/benitarego/"><img height="30" src="https://github.com/benitarego/benitarego/blob/main/icon/linkedin.png?raw=true"></a>-->
+[![twitter](https://img.icons8.com/color/48/000000/twitter--v2.png)][1]
+[![linkedin](https://img.icons8.com/color/48/000000/linkedin-circled--v2.png)][2]
+[![portfolio](https://img.icons8.com/ios-glyphs/30/000000/link--v2.png)][3]
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
 
