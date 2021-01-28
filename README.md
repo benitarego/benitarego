@@ -11,11 +11,12 @@ I am Benita Rego, an aspiring Software Developer from Mumbai!
 - 📫 How to reach me: regobenita26@gmail.com
 [1]: https://twitter.com/regobenita
 [2]: https://www.linkedin.com/in/benitarego/
-[3]: https://benitarego.github.io
+[3]: https://benitarego.netlify.app
 
- [![twitter](https://img.icons8.com/color/48/000000/twitter--v2.png)][1]
- [![linkedin](https://img.icons8.com/color/48/000000/linkedin-circled--v2.png)][2]
- [![portfolio](https://img.icons8.com/ios/50/000000/link--v2.png)][3]
+ [![twitter](https://img.icons8.com/bubbles/50/000000/twitter.png)][1]
+ [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
+ [![portfolio](https://img.icons8.com/bubbles/50/000000/link.png)][3]
+
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
 
