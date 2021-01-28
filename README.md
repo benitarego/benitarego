@@ -12,7 +12,7 @@ I am Benita Rego, an aspiring Software Developer from Mumbai!
 [3]: https://benitarego.netlify.app
 
  [![twitter](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)][1]
- [![linkedin](https://img.icons8.com/office/16/000000/linkedin-circled--v2.png)][2]
+ [![linkedin](https://img.icons8.com/office/80/000000/linkedin-circled--v2.png)][2]
  [![portfolio](https://img.icons8.com/bubbles/50/000000/link.png)][3]
 
 
