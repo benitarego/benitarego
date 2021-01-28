@@ -11,7 +11,7 @@ I am Benita Rego, an aspiring Software Developer from Mumbai!
 [2]: https://www.linkedin.com/in/benitarego/
 [3]: https://benitarego.netlify.app
 
- [![twitter](https://img.icons8.com/bubbles/50/000000/twitter.png)][1]
+ [![twitter](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)][1]
  [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
  [![portfolio](https://img.icons8.com/bubbles/50/000000/link.png)][3]
 
