@@ -6,7 +6,7 @@ I am Benita Rego, an aspiring Software Developer from Mumbai!
 - ⚡ I've worked on projects related to domains like Artificial Intelligence, Image Processing and Deep Learning.
 - 🌱 I’m currently learning other web and mobile application technologies: React.js, React Native and Swift.
 - 🤔 I’m looking for help with frontend integration with Deep Learning models.
-- 📸 I post some of my perfectly imperfect memories here! [![Instagram](https://img.icons8.com/officexs/20/000000/instagram-new.png)](https://www.instagram.com/picturenot.perfect/)
+- 📸 I post some of my perfectly imperfect memories here! [![Instagram](https://img.icons8.com/fluent/16/000000/instagram-new.png)](https://www.instagram.com/picturenot.perfect/)
 - 📫 How to reach me: regobenita26@gmail.com
 
 [1]: https://twitter.com/regobenita
