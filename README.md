@@ -1,8 +1,8 @@
 Hey! 👋
 
-I am Benita Rego, an aspiring Software Developer in Santa Clara, CA!
+I am Benita Rego, an aspiring Software Developer in Santa Clara, CA.
 
-- 🔭 I have a designing enthusiasm with practical experience in Mobile App and Web development.
+- 🔭 I have a designing enthusiasm with practical experience in Mobile Application and Web development.
 - ⚡ I've worked on projects related to domains like Artificial Intelligence, Image Processing and Deep Learning.
 - 🌱 I’m currently learning other web and mobile application technologies: React.js, React Native and Swift.
 - 🤔 I’m looking for help with frontend integration with Deep Learning models.
