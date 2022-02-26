@@ -21,4 +21,22 @@ I am Benita Rego, an aspiring Software Engineer in Santa Clara, CA.
  [![instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)][4]
  [![facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)][5]
 
+Technology Stack:
+<table>
+ <body>
+  <tr>
+   <td style="text-align:center">
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="python" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="javascript" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="c" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="express" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="flask" width="35" height="35" style="background: white;"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="django" width="35" height="35"/> 
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="django" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="django" width="35" height="35"/> 
+   </td>
+  </tr>
+ </body>
+</table>
 
