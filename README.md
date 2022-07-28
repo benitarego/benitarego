@@ -1,12 +1,13 @@
 Hey! 👋
 
-I am Benita Rego, an aspiring Software Engineer in Santa Clara, CA.
+I am Benita Rego, an aspiring Software Engineer, based in the Bay Area, USA.
 
-- 🔭 I have a designing enthusiasm with practical experience in Mobile Application and Web development.
+- 🔭 I have a designing enthusiasm with practical experience in Mobile Application and Full Stack Development.
 - ⚡ I've worked on projects related to domains like Artificial Intelligence, Image Processing and Deep Learning.
-- 🌱 I’m currently learning other web and mobile application technologies: Angular and Swift.
-- 🤔 I’m looking for help with frontend integration with Deep Learning models.
+- 🌱 I’m currently learning other web and mobile application technologies: Angular and Swift for iOS.
+- 🤔 I’m looking for Full Time opportunities in Software Engineering/Mobile Engineering/Full Stack Development.
 - 📸 I post some of my perfectly imperfect memories here! [![Instagram](https://img.icons8.com/fluent/25/000000/instagram-new.png)](https://www.instagram.com/picturenot.perfect/)
+- 📹 I and my twin sister @nolita26 collaborate on our YouTube Channel named "The Rego Sisters" where we post some of our travel and international student experience in the States! [![Youtube](https://img.icons8.com/fluent/25/000000/youtube-new.png)](https://www.youtube.com/c/TheRegoSisters?sub_confirmation=1)
 - 📫 How to reach me: brego@scu.edu
 
 [1]: https://twitter.com/regobenita
@@ -32,7 +33,7 @@ Technology Stack:
     <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="30" height="30"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="35" height="35"/> 
+    <img src="https://img.icons8.com/color/48/000000/react.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="35" height="35"/>
