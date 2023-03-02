@@ -1,6 +1,6 @@
-## Hey! I am Benita Rego
+# Hey! I am Benita Rego
 
-# An aspiring Software Engineer! 👩🏻‍💻
+## An aspiring Software Engineer! 👩🏻‍💻
 
 - 📍 Based in the Bay Area, California | 🏡 From Mumbai/Mangalore, India
 - 🔭 I have a designing enthusiasm with practical experience in Mobile and Applications Development.
