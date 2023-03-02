@@ -1,6 +1,6 @@
-Hey! 👋
+## Hey! I am Benita Rego
 
-I am Benita Rego, an aspiring Software Engineer, based in the Bay Area, USA.
+# An aspiring Software Engineer, based in the Bay Area, USA.
 
 - 🔭 I have a designing enthusiasm with practical experience in Mobile Application and Full Stack Development.
 - ⚡ I've worked on projects related to domains like Artificial Intelligence, Image Processing and Deep Learning.
