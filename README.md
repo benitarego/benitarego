@@ -1,4 +1,4 @@
-## Hey! I am Benita Rego
+# Hey! I am Benita Rego
 
 # An aspiring Software Engineer, based in the Bay Area, USA.
 
