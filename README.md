@@ -1,8 +1,8 @@
 # Hey! I am Benita Rego 👩🏻‍💻
 
 - 📍 Based in the Bay Area, California | 🏡 From Mumbai/Mangalore, India
-- 🔭 I have a designing enthusiasm with practical experience in Mobile and Applications Development.
-- ⚡ I've worked on projects related to domains like Artificial Intelligence, Image Processing and Deep Learning.
+- 🔭 I have a designing enthusiasm with practical experience in Full Stack Applications Development.
+- ⚡  Additionally, I've contributed in projects related to domains like Artificial Intelligence, Image Processing and Deep Learning.
 - 📸 I post some of my perfectly imperfect memories here! [![Instagram](https://img.icons8.com/fluent/25/000000/instagram-new.png)](https://www.instagram.com/picturenot.perfect/)
 - 📹 I and my twin @nolita26 collaborate on our YouTube Channel named "The Rego Sisters" where we post some of our travel and international student experience in the States! [![Youtube](https://img.icons8.com/color/25/000000/youtube-play.png)](https://www.youtube.com/c/TheRegoSisters?sub_confirmation=1)
 - 📫 How to reach me: regobenita26@gmail.com
