@@ -34,7 +34,7 @@ Technology Stack:
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/color-glass/48/sql.png" width="35" height="35"/>
    </td>
   </tr>
  </body>
